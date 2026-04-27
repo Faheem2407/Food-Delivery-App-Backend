@@ -1,21 +1,21 @@
 <p align="center">
-    <h1 align="center">❤️Laravel Stater Kit❤️</h1>
+    <h1 align="center">❤️Food Delivery App Backend API❤️</h1>
 </p>
 
 ## Introduction 😍
 
-<p> A Laravel stater kit with a awesome admin panel setup, user login & logout, registration, status, delete, profile settings and system information and many more. </p>
+<p> This is the api collection of the food delivery app backend. It's Frontend was implemented using flutter for the mobile app.</p>
 
 ## Contributor 😎
 
--   <a href="https://github.com/rhishi-kesh" target="_blank">Rhishi kesh</a>
+-   <a href="https://github.com/faheem2407" target="_blank">MD. ABED HASAN FAHIM</a>
 
 ## Installation 🤷‍♂
 
 To Install & Run This Project You Have To Follow Thoose Following Steps:
 
 ```sh
-git clone https://github.com/rhishi-kesh/Laravel-Stater-Kit-Skote.git
+git clone https://github.com/faheem2407/Food-Delivery-App-Backend.git
 ```
 
 ```sh
